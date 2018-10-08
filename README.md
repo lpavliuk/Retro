@@ -11,7 +11,7 @@ Project of __UNIT Factory__ (école 42).
 
 # 16 hours
 
-__Retro__ is a project, to make a game like a __Spacewar__.
+__Retro__ is a project, to make a game like a __Spacewar__ in a short time.
 
 
 __Wikipedia ("Spacewar"):__ https://ru.wikipedia.org/wiki/Spacewar!
