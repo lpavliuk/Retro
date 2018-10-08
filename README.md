@@ -17,4 +17,4 @@ __Retro__ is a project, to make a game like a __Spacewar__.
 __Wikipedia ("Spacewar"):__ https://ru.wikipedia.org/wiki/Spacewar!
 
 
-![](ezgif.com-video-to-gif.gif)
+![](https://github.com/lpavliuk/Retro/blob/master/gifSreenshots/ezgif.com-video-to-gif.gif)
