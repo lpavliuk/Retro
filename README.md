@@ -14,6 +14,11 @@ __Retro__ is a project, to make a game like a __Spacewar__ in a short time.
 __Wikipedia ("Spacewar"):__ https://ru.wikipedia.org/wiki/Spacewar!
 
 
+
+```The Ncurses library was used```
+
+
+
 # 16 hours
 
 
